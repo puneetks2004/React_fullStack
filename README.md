@@ -28,3 +28,7 @@ It doesn’t expose secrets, so it’s safe to push to GitHub or share with your
 
 to access in app.jsx ----------> import.meta.env.VITE_
 to write in .env --------->VITE_
+
+
+
+before deploying first  run  npm run build on cli than deploy
