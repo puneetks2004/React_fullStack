@@ -32,3 +32,4 @@ to write in .env --------->VITE_
 
 
 before deploying first  run  npm run build on cli than deploy
+if you have env than needs to give key values in v ercel while setting
